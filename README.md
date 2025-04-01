@@ -4,7 +4,6 @@ I'm a **B.Tech second-year student** passionate about **web development, problem
 
 ## 🎯 What I'm Up To  
 🔹 **Sharpening my DSA skills** 💡  
-🔹 **Exploring Cloud Computing** ☁️  
 🔹 **Competing in coding contests** 🏁  
 
 ## 🎓 Achievements  
