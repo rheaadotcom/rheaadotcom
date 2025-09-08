@@ -1,21 +1,14 @@
 # 🚀 Innovating One Line at a Time | Hi, I'm Riya Bhardwaj 👋  
 
-I'm a **B.Tech second-year student** passionate about **web development, problem-solving, and open-source**. I love **coding challenges**, building web projects, and exploring new technologies!  
+I'm a **B.Tech pre-final year student** passionate about **web development, problem-solving, and open-source**. I love **coding challenges**, building web projects, and exploring new technologies!  
 
 ## 🎯 What I'm Up To  
 🔹 **Sharpening my DSA skills** 💡  
 🔹 **Competing in coding contests** 🏁  
 
-## 🎓 Achievements                                             
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /
 
-###
-
-🏆 **SheFi Scholar 2025** 
-⭐ **3-Star Coder on GeeksforGeeks**  
-✅ **Solved 100+ problems on LeetCode**  
 
 💬 **Let's connect & build something awesome!** 🚀  
 
