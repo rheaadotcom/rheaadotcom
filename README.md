@@ -7,9 +7,6 @@ I'm a **B.Tech pre-final year student** passionate about **web development, prob
 🔹 **Competing in coding contests** 🏁  
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /
-
-
 💬 **Let's connect & build something awesome!** 🚀  
 
 
