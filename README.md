@@ -123,8 +123,8 @@ A full-stack platform enabling researchers to **create, deploy, and run interact
 
 ## 🌱 Open Source & Community Experience
 
-### Open Source Contributor — Social Summer of Code & Social Winter of Code
-**2025**
+### Open Source Contributor — Social Summer of Code & GirlScript Summer of Code
+**2026**
 
 Contributed to active open-source repositories through structured issue resolution, feature implementation, and collaborative peer code reviews.
 
@@ -165,7 +165,7 @@ Participated in an international hackathon focused on space-tech problem solving
 | 🥇 **Build with India Hackathon** | Ranked **Top 5,000** out of 25,000+ participants |
 | 🚀 **NASA Space Apps Challenge 2025** | Selected participant — international space-tech hackathon |
 | 🔥 **160 Days of DSA Challenge** | Completed a 160-day consistent DSA practice streak |
-| 🌐 **SSOC & SWOC 2025** | Contributed to multiple open-source projects across two cohorts |
+| 🌐 **SSOC & GSSOC 2026** | Contributed to multiple open-source projects across two cohorts |
 | 🎓 **Academic Excellence** | Maintaining **8.7 CGPA** in B.Tech CSE |
 
 </div>
@@ -188,10 +188,9 @@ Participated in an international hackathon focused on space-tech problem solving
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--leetcode--username-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--gfg--username-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-gfg-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-your--hackerrank--username-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-hackerrank-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-your--codechef--username-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-codechef-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-riya_bhardwaj-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-riya_bhardwaj-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/riya_bhardwaj)
+[![HackerRank](https://img.shields.io/badge/HackerRank-iriyabhardwaj-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/iriyabhardwaj)
 
 </div>
 
@@ -212,39 +211,8 @@ Participated in an international hackathon focused on space-tech problem solving
 
 </div>
 
----
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=riya-bhardwaj&theme=onedark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riya-bhardwaj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="95%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/riya-bhardwaj/riya-bhardwaj/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
-> Generated via the [github-contribution-snake](https://github.com/Platane/snk) GitHub Action — set up the workflow in your profile repository to activate this animation.
-
----
 
 ## 🎯 Current Focus
 
