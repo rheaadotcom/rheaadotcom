@@ -28,7 +28,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full Stack Developer** and second-year B.Tech (CSE) student with a strong foundation in **Data Structures & Algorithms**, **system design fundamentals**, and **modern web engineering**. I specialize in building **responsive, end-to-end web applications** using **React.js, Node.js, and Express.js**, with a growing focus on integrating **AI-powered features** into production-ready products using the **OpenAI API**.
+I'm a **Full Stack Developer** and final-year B.Tech (CSE) student with a strong foundation in **Data Structures & Algorithms**, **system design fundamentals**, and **modern web engineering**. I specialize in building **responsive, end-to-end web applications** using **React.js, Node.js, and Express.js**, with a growing focus on integrating **AI-powered features** into production-ready products using the **OpenAI API**.
 
 My engineering approach centers on **fault-tolerant architecture**, **clean API design**, and **user-centered product thinking** — from building secure authentication flows to designing fallback systems that keep applications resilient under failure.
 
