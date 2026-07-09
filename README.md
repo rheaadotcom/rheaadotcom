@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Python%2C+React+%26+Node.js;Building+AI-Powered+Web+Platforms;B.Tech+CSE+%E2%80%9927+%7C+8.6+CGPA;400%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rheaadotcom.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://riya-bhardwaj.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riya--bhardwaj2006-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-bhardwaj2006)
 [![Email](https://img.shields.io/badge/Email-iriyabhardwaj%40gmail.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iriyabhardwaj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-riya--bhardwaj-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya-bhardwaj)
@@ -108,7 +108,7 @@ A full-stack web application built with Next.js and React.js that analyzes start
 [![Gmail](https://img.shields.io/badge/Gmail-iriyabhardwaj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iriyabhardwaj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-bhardwaj2006)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya-bhardwaj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://rheaadotcom.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://riya-bhardwaj.vercel.app)
 
 </div>
 
