@@ -46,7 +46,7 @@ I focus on writing **clean, debuggable, and maintainable code** — and back tha
 ## 🚀 Projects
 
 ### 🤖 CommitCode — Automated LeetCode Submission Tracker
-[![GitHub](https://img.shields.io/badge/Repo-View%20Code-181717?style=flat-square&logo=github)](https://github.com/riya-bhardwaj)
+[![GitHub](https://img.shields.io/badge/Repo-View%20Code-181717?style=flat-square&logo=github)](https://github.com/rheaadotcom)
 ![Stack](https://img.shields.io/badge/Python%20%7C%20Git%20%7C%20GitHub%20API%20%7C%20LeetCode%20GraphQL-6D28D9?style=flat-square)
 
 A Python automation tool that polls the LeetCode GraphQL API every 10 minutes and automatically commits accepted submissions to GitHub.
@@ -57,8 +57,8 @@ A Python automation tool that polls the LeetCode GraphQL API every 10 minutes an
 - 🧩 Modular, reusable functions — reduced code duplication and enabled integration with **1+ additional coding platforms** with minimal changes
 
 ### 🧠 IdeaValidator AI — Startup Validation Platform
-[![GitHub](https://img.shields.io/badge/Repo-View%20Code-181717?style=flat-square&logo=github)](https://github.com/riya-bhardwaj)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-000000?style=flat-square&logo=vercel)](https://github.com/riya-bhardwaj)
+[![GitHub](https://img.shields.io/badge/Repo-View%20Code-181717?style=flat-square&logo=github)](https://github.com/rheaadotcom)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-000000?style=flat-square&logo=vercel)](https://github.com/rheaadotcom)
 ![Stack](https://img.shields.io/badge/Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20OpenAI%20API-6D28D9?style=flat-square)
 
 A full-stack web application built with Next.js and React.js that analyzes startup ideas and generates insights on market potential, competition, and monetization strategy via the OpenAI API.
