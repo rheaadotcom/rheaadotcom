@@ -43,41 +43,6 @@ I focus on writing **clean, debuggable, and maintainable code** — and back tha
 
 ---
 
-## 🚀 Projects
-
-### 🤖 CommitCode — Automated LeetCode Submission Tracker
-[![GitHub](https://img.shields.io/badge/Repo-View%20Code-181717?style=flat-square&logo=github)](https://github.com/rheaadotcom)
-![Stack](https://img.shields.io/badge/Python%20%7C%20Git%20%7C%20GitHub%20API%20%7C%20LeetCode%20GraphQL-6D28D9?style=flat-square)
-
-A Python automation tool that polls the LeetCode GraphQL API every 10 minutes and automatically commits accepted submissions to GitHub.
-
-- ⏱️ Eliminated manual tracking for **100+ solved problems**
-- 🛡️ Fault-tolerant polling/scheduling mechanism — reduced missed submission syncs to **near 0%** over continuous runtime
-- 📝 Programmatically managed Git operations (staging, committing, pushing), generating an organized, automated commit history across multiple problem categories
-- 🧩 Modular, reusable functions — reduced code duplication and enabled integration with **1+ additional coding platforms** with minimal changes
-
-### 🧠 IdeaValidator AI — Startup Validation Platform
-[![GitHub](https://img.shields.io/badge/Repo-View%20Code-181717?style=flat-square&logo=github)](https://github.com/rheaadotcom)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-000000?style=flat-square&logo=vercel)](https://github.com/rheaadotcom)
-![Stack](https://img.shields.io/badge/Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20OpenAI%20API-6D28D9?style=flat-square)
-
-A full-stack web application built with Next.js and React.js that analyzes startup ideas and generates insights on market potential, competition, and monetization strategy via the OpenAI API.
-
-- 🔌 Designed and integrated **5+ RESTful API endpoints** to handle client requests, process AI responses, and manage application state
-- 🔁 Implemented a fallback demo mode with error handling — reduced user-facing failures by **90%** during API downtime or rate-limiting
-- ⚡ Deployed and hosted on **Vercel**, achieving page load times **under 2 seconds** and enabling public access for live demonstrations
-
----
-
-## 🌱 Open Source & Hackathons
-
-- **Social Summer of Code 2026** & **GirlScript Summer of Code 2026** — Selected as a contributor
-- **Build for Bharat Hackathon** — 🥈 Runner-up for "Hafta Bazaar," a hyperlocal vendor-consumer platform
-- **NASA Space Apps Challenge 2025** — Participant, developing technology-driven solutions for real-world problems
-- **EY Techathon** — Advanced to Round 2 after qualifying the preliminary round
-
----
-
 ## 🏆 Achievements
 
 | Recognition | Details |
@@ -85,8 +50,6 @@ A full-stack web application built with Next.js and React.js that analyzes start
 | 📈 LeetCode | 400+ problems solved · max contest rating **1466** |
 | ⭐ HackerRank | 5-Star Rating in C++ |
 | 🥈 Build for Bharat Hackathon | Runner-up — "Hafta Bazaar" |
-| 🚀 NASA Space Apps Challenge 2025 | Participant |
-| 🎯 EY Techathon | Advanced to Round 2 |
 | 🌐 SSOC & GSSOC 2026 | Selected contributor, both cohorts |
 | 🎓 Academics | **8.6 CGPA** in B.Tech CSE |
 
