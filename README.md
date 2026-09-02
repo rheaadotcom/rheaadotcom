@@ -8,8 +8,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://riya-bhardwaj.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riya--bhardwaj2006-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-bhardwaj2006)
 [![Email](https://img.shields.io/badge/Email-iriyabhardwaj%40gmail.com-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iriyabhardwaj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-riya--bhardwaj-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya-bhardwaj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-riya--bhardwaj-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-username)
+[![GitHub](https://img.shields.io/badge/GitHub-riya--bhardwaj-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rheaadotcom)
+[![LeetCode](https://img.shields.io/badge/LeetCode-riya--bhardwaj-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/riya_bhardwaj)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Riya-bhardwaj&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
@@ -70,7 +70,7 @@ I focus on writing **clean, debuggable, and maintainable code** — and back tha
 
 [![Gmail](https://img.shields.io/badge/Gmail-iriyabhardwaj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iriyabhardwaj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-bhardwaj2006)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riya-bhardwaj)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rheaadotcom)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://riya-bhardwaj.vercel.app)
 
 </div>
